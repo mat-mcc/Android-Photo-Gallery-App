@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">AndroidPhotosApp</string>
+    <string-array name="conjunctions">
+        <item>No Conjunction/Disjunction</item>
+        <item>AND</item>
+        <item>OR</item>
+    </string-array>
+    <string-array name="tagNameChoices">
+        <item>Location</item>
+        <item>Person</item>
+    </string-array>
+</resources>
